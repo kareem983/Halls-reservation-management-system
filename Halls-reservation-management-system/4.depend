@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1556722156 source:c:\users\freeware sys\desktop\my programs\4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<stdio.h>
+
